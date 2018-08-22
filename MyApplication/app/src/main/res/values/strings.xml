@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PROJETO JSON RENANZERA </string>
+    <string name="button_carregar_imoveis">Carregar Imoveis do Json</string>
+    <string name="text_info_imoveis">Informacoes dos Imoveis </string>
+</resources>

@@ -1,0 +1,16 @@
+{
+    "imoveis-imobiliaria": {
+        "imoveis": [
+            {
+                "id": "1",
+                "categoria": "Apartamento",
+                "cidade": "Santa Maria"
+            },
+            {
+                "id": "3",
+                "categoria": "Casa",
+                "cidade": "Santa Maria"
+            }
+        ]
+    }
+}
